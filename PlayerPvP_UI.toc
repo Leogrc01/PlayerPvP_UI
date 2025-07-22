@@ -1,0 +1,9 @@
+## Interface: 110107
+## Version: 0.8
+## Title: PlayerPvP_UI
+## Notes: See others PvP rank + your own Ratings
+## Author: 0kleoo
+
+rating.lua
+honorranks.lua
+config.lua
