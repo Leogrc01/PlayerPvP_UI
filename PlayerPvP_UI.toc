@@ -6,4 +6,3 @@
 
 rating.lua
 honorranks.lua
-config.lua
