@@ -6,3 +6,4 @@
 
 rating.lua
 honorranks.lua
+macros.lua
